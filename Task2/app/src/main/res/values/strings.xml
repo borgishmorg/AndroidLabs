@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task2</string>
+    <string name="number1_hint">Первое число</string>
+    <string name="number2_hint">Второе число</string>
+    <string name="plus_button_text">+</string>
+    <string name="minus_button_text">-</string>
+    <string name="multiply_button_text">*</string>
+    <string name="divide_button_text">/</string>
+</resources>
