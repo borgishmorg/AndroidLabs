@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Task3</string>
+    <string name="name_hint">Введите имя</string>
+    <string name="button_text">Сделать фото</string>
+    <string name="camera_permission_error">Вы должны дать разрешение на использование камеры</string>
+    <string name="unexpected_error">Неожиданная ошибка</string>
+</resources>
